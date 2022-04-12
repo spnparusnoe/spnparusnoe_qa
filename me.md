@@ -1,1 +1,0 @@
-[YANDEX](https://yandex.ru)
