@@ -1,1 +1,1 @@
-Training repository
+-=Training repository=-
