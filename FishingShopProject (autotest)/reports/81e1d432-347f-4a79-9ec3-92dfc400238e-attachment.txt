@@ -1,0 +1,6 @@
+Start test
+Click product 1
+Good url
+Click dropdown
+Click item
+Click spinning
